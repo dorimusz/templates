@@ -2,3 +2,8 @@
     --primary: #ff45f3;
     --secondary: #2312d4;
   }
+
+  body{
+    background-color: var(--primary);
+    color: var(--secondary)
+}
